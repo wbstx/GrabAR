@@ -1,9 +1,7 @@
 # GrabAR: Occlusion-aware Grabbing Virtual Objects in AR
 
 <figure class="third">
-    <img src="res/loupe.gif">
-    <img src="res/radio.gif">
-    <img src="res/phone.gif">
+    <img src="res/loupe.gif"><img src="res/radio.gif"><img src="res/phone.gif">
 </figure>
 
 ## Introduction
