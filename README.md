@@ -5,8 +5,15 @@
 </p>
 
 
-
 ##  Introduction
 
 This repo is an official **[PyTorch](https://pytorch.org/)** implementation of [**GrabAR: Occlusion-aware Grabbing Virtual Objects in AR**](https://wbstx.github.io/grabar/).
 
+## How to use
+
+1. Download the [hand segmetation network weights](https://drive.google.com/file/d/1LVsDIP3pYUHDmSsZobtPgQ1pDrNbVLwq/view?usp=sharing) and the [occlusion estimation network weights](https://drive.google.com/file/d/1IHJJaGDoG7cgpZWO-81gOfjxY0Si2tDE/view?usp=sharing), put them in the weights folder.
+2. Simply run **GrabAR.py**, you will see results in the **Image** folder
+
+## Dataset
+
+Coming soon...
