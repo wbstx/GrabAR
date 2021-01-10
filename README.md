@@ -17,3 +17,8 @@ This repo is an official **[PyTorch](https://pytorch.org/)** implementation of [
 ## Dataset
 
 Coming soon...
+
+## Links
+
+[Project](https://wbstx.github.io/grabar/) [Paper](https://arxiv.org/abs/1912.10637) [Video](https://youtu.be/zixCh8GzTzE)
+
